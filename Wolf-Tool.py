@@ -1593,7 +1593,7 @@ if __name__ == "__main__":
         )
         timeout(1)
         os.system("apt install python -y")
-        os.system("git clone https://github.com/jaxBCD/ULtimate-Dork.git")
+        os.system("git clone https://github.com/crypto-jo/Ultimate-Dork.git")
         os.system("mv ULtimate-Dork Tools")
         print("|---------------------------------------------------------------|")
         print("|- Download done You can find the tool in a folder name Tools! -|")
