@@ -1428,7 +1428,7 @@ if __name__ == "__main__":
 """
         )
         timeout(1)
-        os.system("git clone https://github.com/derv82/wifite ")
+        os.system("git clone https://github.com/derv82/wifite")
         os.system("mv wifite Tools")
         print("|---------------------------------------------------------------|")
         print("|- Download done You can find the tool in a folder name Tools! -|")
@@ -1445,7 +1445,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m")
         timeout(1)
         if choose == "99":
             timeout(1)
@@ -1465,25 +1465,13 @@ if __name__ == "__main__":
         timeout(1)
         os.system("clear")
         time.sleep(1)
-        print(
-            "\033[1;32m   ____                      _   _            _                  "
-        )
-        print(
-            "\033[1;32m  / ___|__ _ _ __ ___       | | | | __ _  ___| | _____ _ __ ___  "
-        )
-        print(
-            "\033[1;32m | |   / _` | '_ ` _ \ _____| |_| |/ _` |/ __| |/ / _ \ '__/ __| "
-        )
-        print(
-            "\033[1;32m | |__| (_| | | | | | |_____|  _  | (_| | (__|   <  __/ |  \__ \ "
-        )
-        print(
-            "\033[1;32m  \____\__,_|_| |_| |_|     |_| |_|\__,_|\___|_|\_\___|_|  |___/ "
-        )
-        print(
-            """\033[1;33m
-"""
-        )
+        print("\033[1;32m   ____                      _   _            _                  ")
+        print("\033[1;32m  / ___|__ _ _ __ ___       | | | | __ _  ___| | _____ _ __ ___  ")
+        print("\033[1;32m | |   / _` | '_ ` _ \ _____| |_| |/ _` |/ __| |/ / _ \ '__/ __| ")
+        print("\033[1;32m | |__| (_| | | | | | |_____|  _  | (_| | (__|   <  __/ |  \__ \ ")
+        print("\033[1;32m  \____\__,_|_| |_| |_|     |_| |_|\__,_|\___|_|\_\___|_|  |___/ ")
+        print("""\033[1;33m
+""")
         timeout(1)
         os.system("apt install python -y ")
         os.system("git clone https://github.com/AngelSecurityTeam/Cam-Hackers")
@@ -1492,17 +1480,13 @@ if __name__ == "__main__":
         print("|- Download done You can find the tool in a folder name Tools! -|")
         print("|---------------------------------------------------------------|")
         timeout(1)
-        print(
-            """
-"""
-        )
+        print("""
+""")
         print("\033[1;34m[99] \033[1;31mBack to main menu")
         print("")
         print("\033[1;34m[00]  \033[1;31mExit ...! ")
-        print(
-            """
-"""
-        )
+        print("""
+""")
         choose = input("\033[1;35mSet Install >>\033[1;36m ")
         timeout(1)
         if choose == "99":
@@ -1529,10 +1513,8 @@ if __name__ == "__main__":
         print("\033[1;32m  ___) | (_| | |_| | (__| | | |  __/  __/\__ \  __/ ")
         print("\033[1;32m |____/ \__,_|\__, |\___|_| |_|\___|\___||___/\___| ")
         print("\033[1;32m              |___/                                 ")
-        print(
-            """\033[1;33m
-"""
-        )
+        print("""\033[1;33m
+""")
         timeout(1)
         os.system("apt install python -y")
         os.system("git clone https://github.com/QuantumByteStudios/saycheese.git ")
@@ -1594,7 +1576,7 @@ if __name__ == "__main__":
         timeout(1)
         os.system("apt install python -y")
         os.system("git clone https://github.com/crypto-jo/Ultimate-Dork.git")
-        os.system("mv ULtimate-Dork Tools")
+        os.system("mv Ultimate-Dork Tools")
         print("|---------------------------------------------------------------|")
         print("|- Download done You can find the tool in a folder name Tools! -|")
         print("|---------------------------------------------------------------|")
