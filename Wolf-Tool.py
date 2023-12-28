@@ -204,7 +204,7 @@ if __name__ == "__main__":
     main()
 
     #################### Install Termux Basics ##############
-    choice_tool = input("\033[1;35mSet Install Tool >>\033[1;36m ")
+    choice_tool = input("\033[1;35mSet Install Tool >>\033[1;36m ").strip()
     if choice_tool == "1" or choice_tool == "01":
         timeout(1)
         os.system("clear")
@@ -247,7 +247,7 @@ if __name__ == "__main__":
         print("""
 """
               )
-        install_tool = input("\033[1;35mSet Install >> \033[1;36m ")
+        install_tool = input("\033[1;35mSet Install >> \033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -308,7 +308,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -362,7 +362,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -409,7 +409,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -467,7 +467,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -525,7 +525,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -574,7 +574,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -622,7 +622,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -670,7 +670,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -717,7 +717,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -765,7 +765,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -812,7 +812,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -863,7 +863,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -909,7 +909,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -962,7 +962,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -1009,7 +1009,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -1056,7 +1056,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -1103,7 +1103,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -1151,7 +1151,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -1202,7 +1202,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -1249,7 +1249,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -1296,7 +1296,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -1346,7 +1346,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if install_tool == "99":
             timeout(1)
@@ -1398,7 +1398,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if choose == "99":
             timeout(1)
@@ -1445,7 +1445,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m")
+        choose = input("\033[1;35mSet Install >>\033[1;36m").strip()
         timeout(1)
         if choose == "99":
             timeout(1)
@@ -1487,7 +1487,7 @@ if __name__ == "__main__":
         print("\033[1;34m[00]  \033[1;31mExit ...! ")
         print("""
 """)
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if choose == "99":
             timeout(1)
@@ -1534,7 +1534,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if choose == "99":
             timeout(1)
@@ -1592,7 +1592,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if choose == "99":
             timeout(1)
@@ -1650,7 +1650,7 @@ if __name__ == "__main__":
             """
 """
         )
-        choose = input("\033[1;35mSet Install >>\033[1;36m ")
+        choose = input("\033[1;35mSet Install >>\033[1;36m ").strip()
         timeout(1)
         if choose == "99":
             timeout(1)
