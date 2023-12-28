@@ -290,7 +290,7 @@ if __name__ == "__main__":
 """
         )
         timeout(1)
-        os.system("git clone https://github.com/B4N954N2-ID/termux-style")
+        os.system("git clone https://github.com/adi1090x/termux-style.git")
         os.system("mv termux-style Tools")
         print("|---------------------------------------------------------------|")
         print("|- Download done You can find the tool in a folder name Tools! -|")
@@ -1232,7 +1232,7 @@ if __name__ == "__main__":
 """
         )
         timeout(1)
-        os.system("git clone https://github.com/evait-security/weeman ")
+        os.system("git clone https://github.com/ByteUprise/weeman.git ")
         os.system("mv weeman Tools")
         print("|---------------------------------------------------------------|")
         print("|- Download done You can find the tool in a folder name Tools! -|")
@@ -1535,7 +1535,7 @@ if __name__ == "__main__":
         )
         timeout(1)
         os.system("apt install python -y")
-        os.system("git clone https://github.com/thelinuxchoice/saycheese ")
+        os.system("git clone https://github.com/QuantumByteStudios/saycheese.git ")
         os.system("mv saycheese Tools")
         print("|---------------------------------------------------------------|")
         print("|- Download done You can find the tool in a folder name Tools! -|")
